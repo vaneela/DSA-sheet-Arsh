@@ -11,3 +11,4 @@ public:
         return s+1;
     }
 };
+// approach 2 brute - using set
